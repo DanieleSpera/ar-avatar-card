@@ -2,7 +2,7 @@
     <a-scene embedded arjs>
         <!-- Marker associato a pattern o a tipo 'hiro' o 'barcode' -->
         <a-marker preset="hiro">
-            <a-entity gltf-model="src/assets/models/roby.glb" scale="5 1 3" position="-00.5 0 0" rotation="0 0 0" />
+            <a-entity gltf-model="assets/models/roby.glb" scale="2 2 2" position="0 1.5 0" rotation="0 0 0" />
             <!-- <a-box position="0 0 0" material="color: blue;"></a-box> -->
         </a-marker>
 
